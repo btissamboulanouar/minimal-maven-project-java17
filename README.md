@@ -1,6 +1,6 @@
 # minimal-maven-project-java17
 Really minimal Maven project structure including pom.xml (executable JAR with Java17)
-by GTR
+GTR
 
 Not using Java Modules!
 
