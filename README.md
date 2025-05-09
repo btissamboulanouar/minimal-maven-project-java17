@@ -1,7 +1,8 @@
 # minimal-maven-project-java17
 Really minimal Maven project structure including pom.xml (executable JAR with Java17)
 
-mini projet GTR
+mini-projet GTR
+
 Not using Java Modules!
 
 "mvn clean install" builds an executable JAR.
